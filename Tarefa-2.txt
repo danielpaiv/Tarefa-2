@@ -7,13 +7,27 @@ INÍCIO
 	6.Pegar a escova de dentes;
 	7.Se não tiver creme dental;
 		1. Ir até o armario pegar o creme;
-		2 .Voltar ao banheiro;
+		2. Voltar ao banheiro;
 		3. Abrir o creme dental ;
 		4. Colocar o creme na escova;
 		5. Escovar os dentes;
+		6. Exaguar a boca;
+		7. Limpar a escova;
+		8. Guardar a escova;
+		9. Guardar a o creme dental;
+		10. Lavar rosto;
+		11. Pegar a toalha;
+		12. Enxugar o rosto;
 	4. Se tiver creme dental;
 		1. Abrir o creme dental;
 		2. Colocar o creme na escova;;
 		3. Escovar os dentes;
+		4. Exaguar a boca;
+		5. Limpar a escova;
+		6. Guardar a escova;
+		7. Guardar a o creme dental;
+		8. Lavar rosto;
+		9. Pegar a toalha;
+		10. Enxugar o rosto;
 
 FIM
