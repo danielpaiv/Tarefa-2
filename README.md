@@ -1,2 +1,3 @@
 # Tarefa-2
-Enviado
+Enviado.
+Aguardando avaliação.
