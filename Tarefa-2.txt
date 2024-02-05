@@ -1,11 +1,12 @@
 INÍCIO
 	1. Acordar;
 	2. Abrir os olhos;
-	3. Levantar;
-	4.Caminhar até o banheiro;
-	5.Lavar rosto;
-	6.Pegar a escova de dentes;
-	7.Se não tiver creme dental;
+	3. Sentar na cama;
+	4. Agradecer;
+	5. Levantar;
+	6.Caminhar até o banheiro;
+	7.Pegar a escova de dentes;
+	8.Se não tiver creme dental;
 		1. Ir até o armario pegar o creme;
 		2. Voltar ao banheiro;
 		3. Abrir o creme dental ;
